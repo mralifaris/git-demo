@@ -1,2 +1,2 @@
 # git-demo
-First repo for testing
+The first repo for testing
